@@ -1,0 +1,19 @@
+$ git log
+commit c270aad6f03a8d6c7faeec5a501330a41cfc082b (HEAD -> master, origin/master)
+Author: MilaTrifunova <94220044+MilaTrifunova@users.noreply.github.com>
+Date:   Sun Apr 9 14:30:40 2023 +0200
+
+    Final commit
+
+commit c87e9dca022c5029010a038af6873346d4571e4c (bug3, bug2, bug1)
+Author: MilaTrifunova <94220044+MilaTrifunova@users.noreply.github.com>
+Date:   Sat Apr 8 00:45:05 2023 +0200
+
+    Add java class
+
+commit 35c4786216dc5014488c04195f17eb3d875e7851
+Author: MilaTrifunova <94220044+MilaTrifunova@users.noreply.github.com>
+Date:   Sat Apr 8 00:41:37 2023 +0200
+
+    Initial commit
+
